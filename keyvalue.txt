@@ -1,0 +1,2 @@
+S:\VS_WS\DR_Automation\demo\dummy.txt  S:\VS_WS\DR_Automation\demo\dummy_DR.txt
+S:\VS_WS\DR_Automation\demo\dummy_DC.txt  S:\VS_WS\DR_Automation\demo\dummy.txt
